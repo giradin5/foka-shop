@@ -1,0 +1,21 @@
+.form-group {
+    margin-bottom: 15px;
+    box-shadow: 0 10px 15px rgb(250, 71, 0);
+}
+.preview {
+    max-height: 100px;
+    margin-bottom: 10px;
+   max-width: 150px;
+}
+body {
+max-width: 1100px;
+margin: 0 auto;
+padding: 20px;
+font-family: Arial, sans-serif;
+background-color: #f9f9f9;
+}
+.flex{
+    display: flex;
+    padding: 10px;
+    margin-bottom: 10px;
+}
